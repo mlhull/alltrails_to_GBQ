@@ -1,6 +1,4 @@
-# Project Name
-
-ETL enriched US national park trails data to GBQ
+# ETL enriched US national park trails data to GBQ
 
 ## Table of Contents
 
