@@ -13,7 +13,7 @@
 The purpose of this data pipeline is to enrich a US national park trails data set with climate data and bring it into Google Cloud Platform (GCP). 
 
 Some examples of potential consumer use cases include: 
- - Park administrators can examine trails to identifty alternative uses. This may be used to inform park communication on trail regulations.
+ - Park administrators can examine trails to identify alternative uses. This may be used to inform park communication on trail regulations.
  - Adventurers can use the data to identify travel destination opportunities based on climate preferences.
 
 ## Features
